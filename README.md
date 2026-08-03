@@ -1,2 +1,7 @@
-# python-mini-projects
-Beginner Python projects built while learning Python.
+# Python Mini Projects
+
+A collection of beginner-friendly Python projects.
+
+## Projects
+
+- 01 - Simple Calculator
