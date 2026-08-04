@@ -1,8 +1,10 @@
-# Password Generator
+# Python Mini Projects
 
-A simple Python project that generates random passwords.
+A collection of beginner-friendly Python projects built while learning Python.
 
-## Features
-- Random password generation
-- Custom password length
-- Letters, numbers and symbols
+## 📂 Projects
+
+- ✅ 01 - Simple Calculator
+- ✅ 02 - Password Generator
+
+More projects coming soon...
