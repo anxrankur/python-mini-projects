@@ -1,5 +1,7 @@
 # Python Mini Projects
 
+A collection of beginner-friendly Python projects built while learning Python.
+
 ## 📂 Projects
 
 - ✅ 01 - Simple Calculator
@@ -7,5 +9,7 @@
 - ✅ 03 - Rock Paper Scissors
 - ✅ 04 - To-Do List
 - ✅ 05 - Quiz Game
+- ✅ 06 - Contact Book
+- ✅ 07 - Number Guessing Game
 
 More projects coming soon...
