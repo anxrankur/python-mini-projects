@@ -11,5 +11,8 @@ A collection of beginner-friendly Python projects built while learning Python.
 - ✅ 05 - Quiz Game
 - ✅ 06 - Contact Book
 - ✅ 07 - Number Guessing Game
+- ✅ 08 - Expense Tracker
+- ✅ 09 - ATM Simulator
+- ✅ 10 - File Organizer
 
 More projects coming soon...
