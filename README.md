@@ -1,4 +1,4 @@
-# Python Mini Projects
+# 🐍 Python Mini Projects
 
 A collection of beginner-friendly Python projects built while learning Python.
 
@@ -14,5 +14,12 @@ A collection of beginner-friendly Python projects built while learning Python.
 - ✅ 08 - Expense Tracker
 - ✅ 09 - ATM Simulator
 - ✅ 10 - File Organizer
+- ✅ 11 - Digital Clock Dashboard
 
-More projects coming soon...
+## 🚀 Progress
+
+**11 Projects Completed**
+
+Learning Python by building one project at a time.
+
+More projects coming soon... 🐍
