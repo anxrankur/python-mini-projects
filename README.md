@@ -15,10 +15,11 @@ A collection of beginner-friendly Python projects built while learning Python.
 - ✅ 09 - ATM Simulator
 - ✅ 10 - File Organizer
 - ✅ 11 - Digital Clock Dashboard
+- ✅ 12 - Tic-Tac-Toe
 
 ## 🚀 Progress
 
-**11 Projects Completed**
+**12 Projects Completed**
 
 Learning Python by building one project at a time.
 
