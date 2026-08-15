@@ -16,10 +16,11 @@ A collection of beginner-friendly Python projects built while learning Python.
 - ✅ 10 - File Organizer
 - ✅ 11 - Digital Clock Dashboard
 - ✅ 12 - Tic-Tac-Toe
+- ✅ 13 - Music Player
 
 ## 🚀 Progress
 
-**12 Projects Completed**
+**13 Projects Completed**
 
 Learning Python by building one project at a time.
 
